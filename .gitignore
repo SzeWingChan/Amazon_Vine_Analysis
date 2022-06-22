@@ -1,3 +1,8 @@
+# Added files
+.ipynb_checkpoints
+Amazon_Reviews_ETL_starter_code.ipynb
+challenge_schema.sql
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
