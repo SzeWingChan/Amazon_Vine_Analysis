@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-The first part of the challenge is using PySpark to perform the ETL process to extract, transform and load data of the Amazon major appliances dataset to PostgreSQL.  After data is loaded, Amazon vine review data it is exported as a csv file and loaded into Python for further analysis to determine if there is any bias toward favorable reviews from Vine members in your dataset.
+The first part of the challenge is using PySpark to perform the ETL process to extract, transform and load data of the Amazon major appliances dataset to PostgreSQL.  After data is loaded, Amazon vine review data it is exported aCancel changess a csv file and loaded into Python for further analysis to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 ## Results
 - How many Vine reviews and non-Vine reviews were there?
